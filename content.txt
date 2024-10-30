@@ -1,0 +1,16 @@
+<span id="a">gr4y@hack4planet</span>:<span id="b">~</span><span id="c">$</span> cd /brijith
+<span id="a">gr4y@hack4planet</span>:<span id="b">~</span><span id="c">$</span> whoami <br>
+Quote: "<span id="k">Stay curious; the world needs your insights.</span>" <!-- sjkfhskjf -->
+
+Hey There! I am Brijith, a Cybersecurity Researcher From India. <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Besides this  I am  contineously learning and contributing to Cybersecurity community. <br>
+I love breaking down barriers to expose weaknesses!<br> 
+I am<span id="a"> fsociety </span>inspired. <br><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+My <a href="https://drive.google.com/file/d/1owO-gDLm_NcuOlOJewuXjifevAmMwIPM/view">resume</a> can shed some light on who I am.<br> <!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+I have also written <a href="https://medium.com/@groot4272/">blogs</a> as a contribution to the community.<br>
+I have made some projects which you can find on my  <a href="https://github.com/pred07/"> Github</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<span id="a">gr4y@hack4planet</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt
+<p> My Social Media Accounts <br> <a href="https://www.linkedin.com/in/brijith-k-biju/"> # LinkedIN</a> <br>
+Feel free to email me at <!-- longlonglongcomment --><a href="mailto:bugs.groot4272@gmail.com">groot4272@gmail.com</a> </p>
+
+<span id="a">gr4y@hack4planet</span>:<span id="b">~</span><span id="c">$</span> exit 
+
